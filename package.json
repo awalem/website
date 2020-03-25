@@ -1,0 +1,29 @@
+{
+  "name": "awalem",
+  "version": "1.0.0",
+  "description": "My epic Nuxt.js project",
+  "author": "Baker Shamlan",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt generate",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/http": "^0.3.9",
+    "@nuxtjs/bulma": "^1.2.1",
+    "@nuxtjs/dotenv": "^1.4.0",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "lodash": "^4.17.15",
+    "prettier": "^1.19.1",
+    "vue-bulma-components": "^3.2.1",
+    "vue-moment": "^4.1.0",
+    "vue2-filters": "^0.10.0"
+  }
+}
